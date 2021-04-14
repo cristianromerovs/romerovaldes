@@ -1,0 +1,14 @@
+[23-Jun-2020 22:58:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/romerova/public_html/insert.php on line 9
+[23-Jun-2020 23:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/romerova/public_html/insert.php on line 9
+[23-Jun-2020 23:03:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/romerova/public_html/insert.php on line 9
+[23-Jun-2020 23:07:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/romerova/public_html/insert.php on line 9
+[23-Jun-2020 23:20:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'romerova_root'@'localhost' to database 'romerova_romerovaldes' in /home/romerova/public_html/insert.php on line 9
+[31-Oct-2020 19:21:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/romerova/public_html/conexion.php on line 8
+[01-Nov-2020 19:52:36 UTC] PHP Notice:  Undefined index: username in /home/romerova/public_html/admin.php on line 3
+[01-Nov-2020 20:02:19 UTC] PHP Notice:  Undefined index: username in /home/romerova/public_html/admin.php on line 3
+[01-Nov-2020 20:02:38 UTC] PHP Notice:  Undefined index: username in /home/romerova/public_html/admin.php on line 3
+[01-Nov-2020 20:05:21 UTC] PHP Notice:  Undefined index: username in /home/romerova/public_html/admin.php on line 3
+[01-Nov-2020 20:05:21 UTC] PHP Notice:  Undefined index: username in /home/romerova/public_html/admin.php on line 3
+[01-Nov-2020 21:30:23 UTC] PHP Notice:  Undefined index: username in /home/romerova/public_html/admin.php on line 3
+[02-Nov-2020 02:44:55 UTC] PHP Notice:  Undefined index: username in /home/romerova/public_html/admin.php on line 3
+[13-Jan-2021 17:22:46 UTC] PHP Notice:  Undefined index: username in /home/romerova/public_html/admin.php on line 3
